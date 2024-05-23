@@ -1,6 +1,6 @@
 title: Spanish Mix
 originalAuthor: Svenchu
-description: Versión 1.2
+description: Version 1.3
 dependencies: 
 assets:
 - name: bgm/music506.win32.scd
@@ -25071,6 +25071,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_EX760_BTL.a.us/voice/battle/us/wi03_pete
+- name: remastered/obj/N_EX760_BTL_CLSM.a.us/voice/battle/us/pete
+  method: copy
+  source:
+  - name: remastered/obj/N_EX760_BTL_CLSM.a.us/voice/battle/us/pete
 - name: remastered/obj/N_EX760_BTL_HERCULES.a.us/voice/battle/us/pete_hercules
   method: copy
   source:
