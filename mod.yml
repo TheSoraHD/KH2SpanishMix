@@ -1,7 +1,6 @@
 title: Spanish Mix - Voces en Castellano
 originalAuthor: Svenchu
-description: Este mod cambia las voces de Kingdom Hearts 2 Final Mix de PC a las del maravilloso doblaje castellano que se pudo disfrutar en la PS2.
-IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
+description: Este mod cambia las voces de Kingdom Hearts 2 Final Mix de PC a las del maravilloso doblaje castellano que se pudo disfrutar en la PS2. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 dependencies: 
 assets:
 - name: bgm/music506.win32.scd
